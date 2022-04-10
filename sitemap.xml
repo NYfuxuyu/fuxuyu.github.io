@@ -2,84 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://doc.fuxuyu.top/posts/1.html</loc>
+    <loc>http://blog.fuxuyu.top/posts/2.html</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/about/index.html</loc>
+    <loc>http://blog.fuxuyu.top/posts/1.html</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/archives/index.html</loc>
+    <loc>http://blog.fuxuyu.top/about/index.html</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/List/music/index.html</loc>
+    <loc>http://blog.fuxuyu.top/archives/index.html</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/List/gallery/index.html</loc>
+    <loc>http://blog.fuxuyu.top/List/music/index.html</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/List/movies/index.html</loc>
+    <loc>http://blog.fuxuyu.top/List/gallery/index.html</loc>
     
     <lastmod>2022-04-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/comments/index.html</loc>
+    <loc>http://blog.fuxuyu.top/List/movies/index.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.fuxuyu.top/comments/index.html</loc>
     
     <lastmod>2021-11-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/List/gallery/ohmygirl/index.html</loc>
+    <loc>http://blog.fuxuyu.top/List/gallery/ohmygirl/index.html</loc>
     
     <lastmod>2021-09-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/link/index.html</loc>
+    <loc>http://blog.fuxuyu.top/link/index.html</loc>
     
     <lastmod>2021-07-27</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/tags/index.html</loc>
+    <loc>http://blog.fuxuyu.top/tags/index.html</loc>
     
     <lastmod>2021-07-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/categories/index.html</loc>
+    <loc>http://blog.fuxuyu.top/categories/index.html</loc>
     
     <lastmod>2021-07-26</lastmod>
     
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/music/index.html</loc>
+    <loc>http://blog.fuxuyu.top/music/index.html</loc>
     
     <lastmod>2021-07-26</lastmod>
     
@@ -87,7 +94,7 @@
   
 
   <url>
-    <loc>http://doc.fuxuyu.top/</loc>
+    <loc>http://blog.fuxuyu.top/</loc>
     <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -95,7 +102,14 @@
 
   
   <url>
-    <loc>http://doc.fuxuyu.top/tags/%E6%83%B3%E6%B3%95/</loc>
+    <loc>http://blog.fuxuyu.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.fuxuyu.top/tags/%E6%83%B3%E6%B3%95/</loc>
     <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -104,7 +118,14 @@
 
   
   <url>
-    <loc>http://doc.fuxuyu.top/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://blog.fuxuyu.top/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.fuxuyu.top/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
