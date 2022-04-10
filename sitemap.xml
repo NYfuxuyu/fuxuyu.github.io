@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://doc.fuxuyu.top/about/index.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://doc.fuxuyu.top/posts/1.html</loc>
     
     <lastmod>2022-04-10</lastmod>
@@ -9,7 +16,35 @@
   </url>
   
   <url>
-    <loc>http://doc.fuxuyu.top/about/index.html</loc>
+    <loc>http://doc.fuxuyu.top/archives/index.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://doc.fuxuyu.top/List/music/index.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://doc.fuxuyu.top/List/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://doc.fuxuyu.top/List/gallery/index.html</loc>
+    
+    <lastmod>2022-04-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://doc.fuxuyu.top/List/movies/index.html</loc>
     
     <lastmod>2022-04-10</lastmod>
     
@@ -19,20 +54,6 @@
     <loc>http://doc.fuxuyu.top/comments/index.html</loc>
     
     <lastmod>2021-11-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://doc.fuxuyu.top/List/gallery/index.html</loc>
-    
-    <lastmod>2021-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://doc.fuxuyu.top/List/gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2021-10-14</lastmod>
     
   </url>
   
@@ -68,27 +89,6 @@
     <loc>http://doc.fuxuyu.top/music/index.html</loc>
     
     <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://doc.fuxuyu.top/List/movies/index.html</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://doc.fuxuyu.top/List/music/index.html</loc>
-    
-    <lastmod>2021-07-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://doc.fuxuyu.top/archives/index.html</loc>
-    
-    <lastmod>2021-06-27</lastmod>
     
   </url>
   
